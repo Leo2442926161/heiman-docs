@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Cute smart smoke alarm illustration</title>
+  <desc id="desc">A cute flat illustration of a round smart smoke alarm detecting smoke in a home.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fff7df"/>
+      <stop offset="0.52" stop-color="#eef9ff"/>
+      <stop offset="1" stop-color="#f6f0ff"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#314864" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+  <rect width="800" height="600" rx="34" fill="url(#bg)"/>
+  <path d="M0 421 C123 385 217 452 356 414 C512 372 630 421 800 386 L800 600 L0 600 Z" fill="#ccefe8"/>
+  <path d="M76 433 C204 384 293 453 432 413 C548 380 657 408 735 388" fill="none" stroke="#fff" stroke-width="6" opacity="0.9"/>
+
+  <g transform="translate(214 54)" filter="url(#shadow)">
+    <ellipse cx="187" cy="71" rx="178" ry="56" fill="#dbe8ff" opacity="0.55"/>
+    <rect x="44" y="48" width="286" height="100" rx="50" fill="#fff" stroke="#46526f" stroke-width="8"/>
+    <ellipse cx="187" cy="141" rx="116" ry="38" fill="#f7fbff" stroke="#46526f" stroke-width="8"/>
+    <path d="M91 122 C139 148 235 148 283 122" fill="none" stroke="#46526f" stroke-width="8" stroke-linecap="round"/>
+    <path d="M92 80 H282" stroke="#b8c5de" stroke-width="8" stroke-linecap="round" stroke-dasharray="5 13"/>
+    <g stroke="#46526f" stroke-width="5" stroke-linecap="round" opacity="0.85">
+      <path d="M126 136 v12"/>
+      <path d="M149 142 v13"/>
+      <path d="M173 145 v14"/>
+      <path d="M197 145 v14"/>
+      <path d="M221 142 v13"/>
+      <path d="M244 136 v12"/>
+    </g>
+    <circle cx="187" cy="141" r="25" fill="#ff7b72"/>
+    <circle cx="187" cy="141" r="11" fill="#fff"/>
+  </g>
+
+  <g transform="translate(300 221)" fill="none" stroke-linecap="round">
+    <path d="M70 12 C10 78 119 110 58 178 C30 209 51 263 98 284" stroke="#d6ddea" stroke-width="14"/>
+    <path d="M162 2 C99 67 202 103 140 174 C108 211 136 260 185 279" stroke="#ffb99b" stroke-width="12"/>
+    <path d="M252 23 C194 86 291 118 225 189 C199 218 217 262 258 281" stroke="#b8eee0" stroke-width="11"/>
+  </g>
+
+  <g transform="translate(112 338)" filter="url(#shadow)">
+    <path d="M80 18 L150 74 V195 H10 V74 Z" fill="#fff" stroke="#46526f" stroke-width="7" stroke-linejoin="round"/>
+    <rect x="50" y="118" width="60" height="77" rx="17" fill="#8edfd1" stroke="#46526f" stroke-width="6"/>
+    <path d="M80 62 C107 62 129 84 129 111" fill="none" stroke="#8aa7ff" stroke-width="6" stroke-linecap="round"/>
+    <path d="M80 84 C94 84 105 97 105 111" fill="none" stroke="#8aa7ff" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(533 318)" filter="url(#shadow)">
+    <rect x="0" y="57" width="176" height="126" rx="35" fill="#fff" stroke="#46526f" stroke-width="8"/>
+    <path d="M45 118 H131" stroke="#46526f" stroke-width="8" stroke-linecap="round"/>
+    <path d="M88 74 C112 100 123 121 123 146 C123 174 107 190 88 190 C68 190 52 174 52 147 C52 122 67 99 88 74 Z" fill="#ffcf63"/>
+    <path d="M89 104 C101 119 106 132 106 145 C106 160 99 169 89 169 C78 169 71 160 71 146 C71 132 79 118 89 104 Z" fill="#ff7b72"/>
+    <circle cx="136" cy="64" r="32" fill="#fff" stroke="#46526f" stroke-width="8"/>
+    <path d="M119 64 L132 77 L154 51" fill="none" stroke="#5ec9b0" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g fill="none" stroke-linecap="round" opacity="0.72">
+    <path d="M301 183 C235 219 214 274 236 334" stroke="#ff7b72" stroke-width="7" stroke-dasharray="2 18"/>
+    <path d="M498 184 C568 222 585 280 559 343" stroke="#5ec9b0" stroke-width="7" stroke-dasharray="2 18"/>
+  </g>
+  <circle cx="112" cy="143" r="9" fill="#8aa7ff"/>
+  <circle cx="676" cy="167" r="10" fill="#ffcf63"/>
+  <circle cx="715" cy="428" r="8" fill="#5ec9b0"/>
+  <path d="M149 207 h22 M160 196 v22" stroke="#ff9f68" stroke-width="7" stroke-linecap="round"/>
+  <path d="M626 108 h22 M637 97 v22" stroke="#8aa7ff" stroke-width="7" stroke-linecap="round"/>
+</svg>

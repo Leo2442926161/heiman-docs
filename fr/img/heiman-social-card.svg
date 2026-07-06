@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Cute smart safety social card</title>
+  <desc id="desc">A colorful flat illustration with smart smoke alarm, gas detector, shutoff valve, and elderly SOS care button.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fff5de"/>
+      <stop offset="0.5" stop-color="#eef9ff"/>
+      <stop offset="1" stop-color="#f2f0ff"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#314864" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <path d="M0 486 C174 435 295 508 467 469 C660 425 787 477 942 438 C1052 410 1128 425 1200 451 L1200 675 L0 675 Z" fill="#ccefe8" opacity="0.9"/>
+  <path d="M64 495 C224 434 335 509 520 465 C667 430 798 469 944 439 C1045 419 1122 427 1180 447" fill="none" stroke="#fff" stroke-width="7" opacity="0.95"/>
+
+  <g transform="translate(642 78)" filter="url(#shadow)">
+    <ellipse cx="171" cy="56" rx="166" ry="50" fill="#d9e7ff" opacity="0.54"/>
+    <rect x="43" y="39" width="256" height="94" rx="47" fill="#fff" stroke="#46526f" stroke-width="8"/>
+    <ellipse cx="171" cy="128" rx="108" ry="34" fill="#f7fbff" stroke="#46526f" stroke-width="8"/>
+    <path d="M83 111 C127 134 215 134 259 111" fill="none" stroke="#46526f" stroke-width="8" stroke-linecap="round"/>
+    <path d="M86 65 H256" stroke="#b8c5de" stroke-width="7" stroke-linecap="round" stroke-dasharray="5 14"/>
+    <g stroke="#46526f" stroke-width="5" stroke-linecap="round" opacity="0.84">
+      <path d="M116 124 v12"/>
+      <path d="M143 130 v13"/>
+      <path d="M171 132 v14"/>
+      <path d="M199 130 v13"/>
+      <path d="M226 124 v12"/>
+    </g>
+    <circle cx="171" cy="128" r="24" fill="#ff7b72"/>
+    <circle cx="171" cy="128" r="10" fill="#fff"/>
+  </g>
+
+  <g transform="translate(708 240)" fill="none" stroke-linecap="round">
+    <path d="M54 7 C15 52 85 76 42 122 C22 143 35 177 68 191" stroke="#d4dbea" stroke-width="11"/>
+    <path d="M136 14 C101 55 163 80 126 126 C105 153 123 181 156 191" stroke="#ffb99b" stroke-width="9"/>
+    <path d="M216 16 C179 61 248 84 202 134 C183 154 196 181 225 191" stroke="#b8eee0" stroke-width="9"/>
+  </g>
+
+  <g transform="translate(123 154)" filter="url(#shadow)">
+    <path d="M165 18 L315 137 V388 H15 V137 Z" fill="#fff" stroke="#46526f" stroke-width="10" stroke-linejoin="round"/>
+    <rect x="98" y="242" width="134" height="146" rx="28" fill="#ccefe8" stroke="#46526f" stroke-width="9"/>
+    <circle cx="165" cy="311" r="24" fill="#ff7b72"/>
+    <path d="M165 119 C214 119 255 160 255 209" fill="none" stroke="#8aa7ff" stroke-width="9" stroke-linecap="round"/>
+    <path d="M165 158 C194 158 218 181 218 209" fill="none" stroke="#8aa7ff" stroke-width="9" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(885 262)" filter="url(#shadow)">
+    <rect x="38" y="0" width="128" height="174" rx="44" fill="#fff" stroke="#46526f" stroke-width="8"/>
+    <path d="M77 44 H127" stroke="#46526f" stroke-width="8" stroke-linecap="round"/>
+    <path d="M77 140 H128" stroke="#b8c5de" stroke-width="7" stroke-linecap="round" stroke-dasharray="5 12"/>
+    <circle cx="103" cy="96" r="30" fill="#5ec9b0"/>
+    <circle cx="103" cy="96" r="12" fill="#fff"/>
+    <path d="M103 174 V247" stroke="#46526f" stroke-width="8" stroke-linecap="round"/>
+    <path d="M0 247 H205" stroke="#46526f" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="103" cy="247" r="41" fill="#ffcf63" stroke="#46526f" stroke-width="8"/>
+    <path d="M74 247 H132 M103 219 V275" stroke="#46526f" stroke-width="8" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(454 377)" filter="url(#shadow)">
+    <circle cx="66" cy="44" r="40" fill="#ffe0ba" stroke="#46526f" stroke-width="7"/>
+    <path d="M34 39 C46 11 82 6 105 26 C89 34 66 35 46 30 C42 34 38 37 34 39 Z" fill="#d6b5ff" stroke="#46526f" stroke-width="6" stroke-linejoin="round"/>
+    <rect x="18" y="86" width="96" height="112" rx="38" fill="#fff" stroke="#46526f" stroke-width="7"/>
+    <path d="M38 116 C51 130 82 130 95 116" fill="none" stroke="#5ec9b0" stroke-width="8" stroke-linecap="round"/>
+    <path d="M28 196 L12 262 M104 196 L121 262" stroke="#46526f" stroke-width="7" stroke-linecap="round"/>
+    <path d="M138 178 V262" stroke="#46526f" stroke-width="7" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(575 444)" filter="url(#shadow)">
+    <rect x="0" y="37" width="134" height="103" rx="34" fill="#fff" stroke="#46526f" stroke-width="8"/>
+    <circle cx="67" cy="88" r="37" fill="#ff7b72"/>
+    <text x="67" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="25" fill="#fff">SOS</text>
+    <path d="M67 37 V10" stroke="#46526f" stroke-width="7" stroke-linecap="round"/>
+    <path d="M34 11 C51 -5 83 -5 100 11" fill="none" stroke="#8aa7ff" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  <g fill="none" stroke-linecap="round" opacity="0.72">
+    <path d="M626 185 C564 224 544 288 567 356" stroke="#ff7b72" stroke-width="8" stroke-dasharray="3 22"/>
+    <path d="M922 231 C859 252 830 298 836 359" stroke="#5ec9b0" stroke-width="8" stroke-dasharray="3 22"/>
+    <path d="M642 443 C614 402 618 363 653 332" stroke="#8aa7ff" stroke-width="8" stroke-dasharray="3 22"/>
+  </g>
+  <circle cx="102" cy="104" r="12" fill="#8aa7ff"/>
+  <circle cx="342" cy="103" r="10" fill="#5ec9b0"/>
+  <circle cx="1088" cy="151" r="11" fill="#ffcf63"/>
+  <circle cx="1090" cy="517" r="10" fill="#ff7b72"/>
+  <path d="M242 117 h26 M255 104 v26" stroke="#ff9f68" stroke-width="8" stroke-linecap="round"/>
+  <path d="M1080 243 h28 M1094 229 v28" stroke="#8aa7ff" stroke-width="8" stroke-linecap="round"/>
+  <path d="M330 505 h24 M342 493 v24" stroke="#5ec9b0" stroke-width="8" stroke-linecap="round"/>
+</svg>

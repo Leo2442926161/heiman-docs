@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Cute smart elderly care illustration</title>
+  <desc id="desc">A cute flat illustration of elderly care with a senior, cane, bedside alert button, and smart safety signals.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fff2e8"/>
+      <stop offset="0.45" stop-color="#eef8ff"/>
+      <stop offset="1" stop-color="#f1f7e8"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#334b63" flood-opacity="0.14"/>
+    </filter>
+  </defs>
+  <rect width="800" height="600" rx="34" fill="url(#bg)"/>
+  <path d="M0 424 C128 383 244 451 390 409 C528 371 657 421 800 382 L800 600 L0 600 Z" fill="#ffdfc3"/>
+  <path d="M58 433 C190 384 269 453 420 408 C546 372 656 410 744 385" fill="none" stroke="#fff" stroke-width="6" opacity="0.88"/>
+
+  <g transform="translate(70 314)" filter="url(#shadow)">
+    <rect x="0" y="88" width="260" height="82" rx="24" fill="#fff" stroke="#46526f" stroke-width="8"/>
+    <rect x="44" y="26" width="188" height="88" rx="28" fill="#ccefe8" stroke="#46526f" stroke-width="8"/>
+    <path d="M63 12 H215" stroke="#46526f" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="76" cy="129" r="14" fill="#ffcf63"/>
+    <circle cx="181" cy="129" r="14" fill="#ff7b72"/>
+    <path d="M39 170 V232 M220 170 V232" stroke="#46526f" stroke-width="8" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(334 139)" filter="url(#shadow)">
+    <circle cx="107" cy="70" r="58" fill="#ffe0ba" stroke="#46526f" stroke-width="8"/>
+    <path d="M57 60 C75 16 127 8 160 38 C137 48 103 51 72 42 C67 49 62 55 57 60 Z" fill="#d6b5ff" stroke="#46526f" stroke-width="7" stroke-linejoin="round"/>
+    <path d="M82 75 Q94 88 107 75 Q120 88 134 75" fill="none" stroke="#46526f" stroke-width="6" stroke-linecap="round"/>
+    <rect x="31" y="134" width="152" height="176" rx="56" fill="#fff" stroke="#46526f" stroke-width="8"/>
+    <path d="M64 181 C83 202 131 202 151 181" fill="none" stroke="#5ec9b0" stroke-width="10" stroke-linecap="round"/>
+    <path d="M45 307 L20 407" stroke="#46526f" stroke-width="9" stroke-linecap="round"/>
+    <path d="M168 307 L194 407" stroke="#46526f" stroke-width="9" stroke-linecap="round"/>
+    <path d="M29 205 C-18 236 -15 285 31 306" fill="none" stroke="#46526f" stroke-width="8" stroke-linecap="round"/>
+    <path d="M181 205 C231 236 228 285 183 306" fill="none" stroke="#46526f" stroke-width="8" stroke-linecap="round"/>
+    <path d="M218 278 V407" stroke="#46526f" stroke-width="9" stroke-linecap="round"/>
+    <path d="M218 278 C252 279 257 305 235 320" fill="none" stroke="#46526f" stroke-width="9" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(553 350)" filter="url(#shadow)">
+    <rect x="0" y="50" width="160" height="123" rx="40" fill="#fff" stroke="#46526f" stroke-width="8"/>
+    <circle cx="80" cy="111" r="43" fill="#ff7b72"/>
+    <text x="80" y="121" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="29" fill="#fff">SOS</text>
+    <path d="M80 50 V17" stroke="#46526f" stroke-width="8" stroke-linecap="round"/>
+    <path d="M40 18 C61 -2 101 -2 121 18" fill="none" stroke="#8aa7ff" stroke-width="7" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(573 104)" filter="url(#shadow)">
+    <path d="M78 9 C100 34 126 40 158 39 V119 C158 166 122 198 78 211 C34 198 0 166 0 119 V39 C32 40 57 34 78 9 Z" fill="#fff" stroke="#46526f" stroke-width="8"/>
+    <path d="M78 83 C63 57 28 63 28 96 C28 122 55 137 78 159 C101 137 130 122 130 96 C130 63 93 57 78 83 Z" fill="#ff7b72"/>
+  </g>
+
+  <g fill="none" stroke-linecap="round" opacity="0.72">
+    <path d="M621 335 C628 267 599 221 543 198" stroke="#5ec9b0" stroke-width="7" stroke-dasharray="2 18"/>
+    <path d="M535 397 C493 356 488 317 518 277" stroke="#8aa7ff" stroke-width="7" stroke-dasharray="2 18"/>
+  </g>
+  <circle cx="137" cy="142" r="9" fill="#8aa7ff"/>
+  <circle cx="263" cy="204" r="10" fill="#5ec9b0"/>
+  <circle cx="704" cy="255" r="9" fill="#ffcf63"/>
+  <path d="M198 104 h22 M209 93 v22" stroke="#ff9f68" stroke-width="7" stroke-linecap="round"/>
+  <path d="M681 143 h22 M692 132 v22" stroke="#8aa7ff" stroke-width="7" stroke-linecap="round"/>
+</svg>
