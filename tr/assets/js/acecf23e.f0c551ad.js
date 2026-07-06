@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkarticles=self.webpackChunkarticles||[]).push([["3220"],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/heiman-docs/tr/blog","blogTitle":"Blog","authorsListPath":"/heiman-docs/tr/blog/authors"}')}}]);

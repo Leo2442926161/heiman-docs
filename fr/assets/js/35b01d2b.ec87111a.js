@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkarticles=self.webpackChunkarticles||[]).push([["1895"],{299(e){e.exports=JSON.parse('{"metadata":{"permalink":"/heiman-docs/fr/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
