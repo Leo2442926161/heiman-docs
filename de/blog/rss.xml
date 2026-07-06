@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Heiman Technology Blog</title>
-        <link>https://Leo2442926161.github.io/articles/de/blog</link>
+        <link>https://Leo2442926161.github.io/heiman-docs/de/blog</link>
         <description>Heiman Technology Blog</description>
         <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,13 +10,13 @@
         <language>de</language>
         <item>
             <title><![CDATA[Welcome to Heiman Technology]]></title>
-            <link>https://Leo2442926161.github.io/articles/de/blog/welcome</link>
-            <guid>https://Leo2442926161.github.io/articles/de/blog/welcome</guid>
+            <link>https://Leo2442926161.github.io/heiman-docs/de/blog/welcome</link>
+            <guid>https://Leo2442926161.github.io/heiman-docs/de/blog/welcome</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to Heiman Technology! This is the official knowledge base of Heiman Technology, bringing together product documentation, technical solutions, industry news, and company updates.]]></description>
             <content:encoded><![CDATA[<p>Welcome to Heiman Technology! This is the official knowledge base of Heiman Technology, bringing together product documentation, technical solutions, industry news, and company updates.</p>
 <!-- -->
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="about-this-site">About This Site<a href="https://leo2442926161.github.io/articles/de/blog/welcome#about-this-site" class="hash-link" aria-label="Direkter Link zur About This Site" title="Direkter Link zur About This Site" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="about-this-site">About This Site<a href="https://leo2442926161.github.io/heiman-docs/de/blog/welcome#about-this-site" class="hash-link" aria-label="Direkter Link zur About This Site" title="Direkter Link zur About This Site" translate="no">​</a></h2>
 <p>Heiman Technology is dedicated to providing partners, developers, and customers with one-stop technical resources to help you quickly learn about:</p>
 <ul>
 <li class=""><strong>Product Center</strong> — Full range of smart fire, smart gas, smart elderly care, and smart sensing products</li>
@@ -24,10 +24,10 @@
 <li class=""><strong>Technical Documentation</strong> — API integration guides, SDK usage instructions, installation and deployment manuals</li>
 <li class=""><strong>Industry Insights</strong> — Cutting-edge trends and policy analysis in smart security</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="quick-navigation">Quick Navigation<a href="https://leo2442926161.github.io/articles/de/blog/welcome#quick-navigation" class="hash-link" aria-label="Direkter Link zur Quick Navigation" title="Direkter Link zur Quick Navigation" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="quick-navigation">Quick Navigation<a href="https://leo2442926161.github.io/heiman-docs/de/blog/welcome#quick-navigation" class="hash-link" aria-label="Direkter Link zur Quick Navigation" title="Direkter Link zur Quick Navigation" translate="no">​</a></h2>
 <ul>
-<li class="">View <a class="" href="https://leo2442926161.github.io/articles/de/docs/Product%20line/Smoke%20Sensor">Product Line</a> to learn about Heiman's product range</li>
-<li class="">Read <a class="" href="https://leo2442926161.github.io/articles/de/docs/intro">Company Overview</a> to learn about Heiman's development history</li>
+<li class="">View <a class="" href="https://leo2442926161.github.io/heiman-docs/de/docs/product_line/Smoke-Sensor">Product Line</a> to learn about Heiman's product range</li>
+<li class="">Read <a class="" href="https://leo2442926161.github.io/heiman-docs/de/docs/intro">Company Overview</a> to learn about Heiman's development history</li>
 <li class="">Visit <a href="https://www.heiman.com.cn/" target="_blank" rel="noopener noreferrer" class="">Heiman Official Website</a> for more information</li>
 </ul>
 <p>If you have any questions, please call customer service hotline <strong>400-8959-500</strong> or contact online customer service.</p>]]></content:encoded>
@@ -35,14 +35,14 @@
         </item>
         <item>
             <title><![CDATA[Heiman Matter Smart Smoke Alarm Officially Launched]]></title>
-            <link>https://Leo2442926161.github.io/articles/de/blog/mdx-blog-post</link>
-            <guid>https://Leo2442926161.github.io/articles/de/blog/mdx-blog-post</guid>
+            <link>https://Leo2442926161.github.io/heiman-docs/de/blog/mdx-blog-post</link>
+            <guid>https://Leo2442926161.github.io/heiman-docs/de/blog/mdx-blog-post</guid>
             <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Heiman Technology's next-generation Matter smart smoke alarm HS1SA-M has been officially launched, making it one of the first smoke alarm products in the industry to receive Matter 1.2 certification.]]></description>
             <content:encoded><![CDATA[<p>Heiman Technology's next-generation Matter smart smoke alarm HS1SA-M has been officially launched, making it one of the first smoke alarm products in the industry to receive Matter 1.2 certification.</p>
 <!-- -->
 <div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tipp</div><div class="admonitionContent_BuS1"><p>HS1SA-M supports four major smart home ecosystems: Apple HomeKit, Amazon Alexa, Google Home, and Samsung SmartThings.</p></div></div>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="key-features">Key Features<a href="https://leo2442926161.github.io/articles/de/blog/mdx-blog-post#key-features" class="hash-link" aria-label="Direkter Link zur Key Features" title="Direkter Link zur Key Features" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="key-features">Key Features<a href="https://leo2442926161.github.io/heiman-docs/de/blog/mdx-blog-post#key-features" class="hash-link" aria-label="Direkter Link zur Key Features" title="Direkter Link zur Key Features" translate="no">​</a></h2>
 <ul>
 <li class=""><strong>Matter 1.2 Certified</strong> — Cross-brand, cross-ecosystem interoperability</li>
 <li class=""><strong>Photoelectric Smoke Sensing</strong> — Rapid response to various fire smoke types</li>
@@ -50,48 +50,48 @@
 <li class=""><strong>Self-Test Function</strong> — Periodic self-checks to ensure normal operation</li>
 <li class=""><strong>Remote Notification</strong> — Real-time push alerts via mobile app</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="compatibility">Compatibility<a href="https://leo2442926161.github.io/articles/de/blog/mdx-blog-post#compatibility" class="hash-link" aria-label="Direkter Link zur Compatibility" title="Direkter Link zur Compatibility" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="compatibility">Compatibility<a href="https://leo2442926161.github.io/heiman-docs/de/blog/mdx-blog-post#compatibility" class="hash-link" aria-label="Direkter Link zur Compatibility" title="Direkter Link zur Compatibility" translate="no">​</a></h2>
 <p>HS1SA-M seamlessly integrates with mainstream smart home platforms, allowing users to control and manage it directly via their smartphones without the need for an additional gateway.</p>
-<p>For more details, visit <a class="" href="https://leo2442926161.github.io/articles/de/docs/Product%20line/Smoke%20Sensor">Product Line</a>.</p>]]></content:encoded>
+<p>For more details, visit <a class="" href="https://leo2442926161.github.io/heiman-docs/de/docs/product_line/Smoke-Sensor">Product Line</a>.</p>]]></content:encoded>
             <category>Matter</category>
             <category>Smart Fire Safety</category>
         </item>
         <item>
             <title><![CDATA[Heiman Technology Development Milestones]]></title>
-            <link>https://Leo2442926161.github.io/articles/de/blog/long-blog-post</link>
-            <guid>https://Leo2442926161.github.io/articles/de/blog/long-blog-post</guid>
+            <link>https://Leo2442926161.github.io/heiman-docs/de/blog/long-blog-post</link>
+            <guid>https://Leo2442926161.github.io/heiman-docs/de/blog/long-blog-post</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Since its founding in 2005, Heiman Technology has journeyed over 20 years of development. This article takes you through Heiman's key milestones.]]></description>
             <content:encoded><![CDATA[<p>Since its founding in 2005, Heiman Technology has journeyed over 20 years of development. This article takes you through Heiman's key milestones.</p>
 <!-- -->
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2005---company-founded">2005 - Company Founded<a href="https://leo2442926161.github.io/articles/de/blog/long-blog-post#2005---company-founded" class="hash-link" aria-label="Direkter Link zur 2005 - Company Founded" title="Direkter Link zur 2005 - Company Founded" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2005---company-founded">2005 - Company Founded<a href="https://leo2442926161.github.io/heiman-docs/de/blog/long-blog-post#2005---company-founded" class="hash-link" aria-label="Direkter Link zur 2005 - Company Founded" title="Direkter Link zur 2005 - Company Founded" translate="no">​</a></h2>
 <p>Shenzhen Heiman Technology Co., Ltd. was officially established, entering the security and sensing field.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2006---international-expansion">2006 - International Expansion<a href="https://leo2442926161.github.io/articles/de/blog/long-blog-post#2006---international-expansion" class="hash-link" aria-label="Direkter Link zur 2006 - International Expansion" title="Direkter Link zur 2006 - International Expansion" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2006---international-expansion">2006 - International Expansion<a href="https://leo2442926161.github.io/heiman-docs/de/blog/long-blog-post#2006---international-expansion" class="hash-link" aria-label="Direkter Link zur 2006 - International Expansion" title="Direkter Link zur 2006 - International Expansion" translate="no">​</a></h2>
 <p>Multiple products received EU CE certification, and a partnership was established with China Mobile.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2011---international-certification-breakthrough">2011 - International Certification Breakthrough<a href="https://leo2442926161.github.io/articles/de/blog/long-blog-post#2011---international-certification-breakthrough" class="hash-link" aria-label="Direkter Link zur 2011 - International Certification Breakthrough" title="Direkter Link zur 2011 - International Certification Breakthrough" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2011---international-certification-breakthrough">2011 - International Certification Breakthrough<a href="https://leo2442926161.github.io/heiman-docs/de/blog/long-blog-post#2011---international-certification-breakthrough" class="hash-link" aria-label="Direkter Link zur 2011 - International Certification Breakthrough" title="Direkter Link zur 2011 - International Certification Breakthrough" translate="no">​</a></h2>
 <p>Multiple products passed EU EN54-7 and EN14604 certification, marking product quality reaching international advanced standards.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2012---smart-home-transformation">2012 - Smart Home Transformation<a href="https://leo2442926161.github.io/articles/de/blog/long-blog-post#2012---smart-home-transformation" class="hash-link" aria-label="Direkter Link zur 2012 - Smart Home Transformation" title="Direkter Link zur 2012 - Smart Home Transformation" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2012---smart-home-transformation">2012 - Smart Home Transformation<a href="https://leo2442926161.github.io/heiman-docs/de/blog/long-blog-post#2012---smart-home-transformation" class="hash-link" aria-label="Direkter Link zur 2012 - Smart Home Transformation" title="Direkter Link zur 2012 - Smart Home Transformation" translate="no">​</a></h2>
 <p>The smart home project was fully launched, transitioning Heiman into a company focused on R&amp;D, production, and sales of smart home products.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2017---major-breakthroughs">2017 - Major Breakthroughs<a href="https://leo2442926161.github.io/articles/de/blog/long-blog-post#2017---major-breakthroughs" class="hash-link" aria-label="Direkter Link zur 2017 - Major Breakthroughs" title="Direkter Link zur 2017 - Major Breakthroughs" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2017---major-breakthroughs">2017 - Major Breakthroughs<a href="https://leo2442926161.github.io/heiman-docs/de/blog/long-blog-post#2017---major-breakthroughs" class="hash-link" aria-label="Direkter Link zur 2017 - Major Breakthroughs" title="Direkter Link zur 2017 - Major Breakthroughs" translate="no">​</a></h2>
 <ul>
 <li class="">Developed China's first NB-IoT smoke alarm</li>
 <li class="">Won 2 German Red Dot Design Awards</li>
 <li class="">Obtained MFi certification and Apple manufacturer qualification</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2020---capital-boost">2020 - Capital Boost<a href="https://leo2442926161.github.io/articles/de/blog/long-blog-post#2020---capital-boost" class="hash-link" aria-label="Direkter Link zur 2020 - Capital Boost" title="Direkter Link zur 2020 - Capital Boost" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2020---capital-boost">2020 - Capital Boost<a href="https://leo2442926161.github.io/heiman-docs/de/blog/long-blog-post#2020---capital-boost" class="hash-link" aria-label="Direkter Link zur 2020 - Capital Boost" title="Direkter Link zur 2020 - Capital Boost" translate="no">​</a></h2>
 <p>Completed Series A funding round with Shenzhen HTI Group as investor, received "Guangdong Province Specialized and New SME" designation.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2022---national-recognition">2022 - National Recognition<a href="https://leo2442926161.github.io/articles/de/blog/long-blog-post#2022---national-recognition" class="hash-link" aria-label="Direkter Link zur 2022 - National Recognition" title="Direkter Link zur 2022 - National Recognition" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2022---national-recognition">2022 - National Recognition<a href="https://leo2442926161.github.io/heiman-docs/de/blog/long-blog-post#2022---national-recognition" class="hash-link" aria-label="Direkter Link zur 2022 - National Recognition" title="Direkter Link zur 2022 - National Recognition" translate="no">​</a></h2>
 <p>Recognized as a national "Little Giant" enterprise; K1 series won German Red Dot Design Award.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2023---international-standards-leadership">2023 - International Standards Leadership<a href="https://leo2442926161.github.io/articles/de/blog/long-blog-post#2023---international-standards-leadership" class="hash-link" aria-label="Direkter Link zur 2023 - International Standards Leadership" title="Direkter Link zur 2023 - International Standards Leadership" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2023---international-standards-leadership">2023 - International Standards Leadership<a href="https://leo2442926161.github.io/heiman-docs/de/blog/long-blog-post#2023---international-standards-leadership" class="hash-link" aria-label="Direkter Link zur 2023 - International Standards Leadership" title="Direkter Link zur 2023 - International Standards Leadership" translate="no">​</a></h2>
 <p>Heiman testing laboratory officially passed national CNAS accreditation; smoke alarms and CO alarms were among the first to receive Matter 1.2 certification.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2024---present">2024 - Present<a href="https://leo2442926161.github.io/articles/de/blog/long-blog-post#2024---present" class="hash-link" aria-label="Direkter Link zur 2024 - Present" title="Direkter Link zur 2024 - Present" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2024---present">2024 - Present<a href="https://leo2442926161.github.io/heiman-docs/de/blog/long-blog-post#2024---present" class="hash-link" aria-label="Direkter Link zur 2024 - Present" title="Direkter Link zur 2024 - Present" translate="no">​</a></h2>
 <p>Continuous innovation, deeply engaged in smart fire safety, smart gas safety, smart elderly care, and smart sensing, providing quality products and services to customers in 100+ countries worldwide.</p>]]></content:encoded>
             <category>Heiman Technology</category>
         </item>
         <item>
             <title><![CDATA[Heiman Technology Recognized as National "Little Giant" Enterprise]]></title>
-            <link>https://Leo2442926161.github.io/articles/de/blog/first-blog-post</link>
-            <guid>https://Leo2442926161.github.io/articles/de/blog/first-blog-post</guid>
+            <link>https://Leo2442926161.github.io/heiman-docs/de/blog/first-blog-post</link>
+            <guid>https://Leo2442926161.github.io/heiman-docs/de/blog/first-blog-post</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[In 2022, Heiman Technology was officially recognized as a national "Little Giant" enterprise (Specialized and New) for its deep technical expertise and innovation capabilities in the smart sensing field.]]></description>
             <content:encoded><![CDATA[<p>In 2022, Heiman Technology was officially recognized as a national "Little Giant" enterprise (Specialized and New) for its deep technical expertise and innovation capabilities in the smart sensing field.</p>
